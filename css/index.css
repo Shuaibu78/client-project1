@@ -301,6 +301,9 @@ header .logo {
       top: 12px;
       font-size: 30px;
     }
+    .dropdown a{
+      font-size: 3.2rem;
+    }
   }
 
   /* Home hero image */
@@ -882,42 +885,6 @@ footer p {
   .contact .contact-us .contact-detail p {
     padding-bottom: 5px;
   }
-  /* .contact .contact-us .contact-detail #editor {
-    border: 1px solid #ccc;
-  }
-  .contact .contact-us .contact-detail #editor h1 {
-    font-size: 3.2rem;
-  }
-  .contact .contact-us .contact-detail #editor h2 {
-    font-size: 2.8rem;
-  }
-  .contact .contact-us .contact-detail #editor h3 {
-    font-size: 2.4rem;
-  }
-  .contact .contact-us .contact-detail #editor h4 {
-    font-size: 2.2rem;
-  }
-  .contact .contact-us .contact-detail #editor p {
-    font-size: 1.6rem;
-  }
-  .contact .contact-us .contact-detail #editor em {
-    font-size: 1.6rem;
-    font-style: italic;
-  }
-  .contact .contact-us .contact-detail #editor strong {
-    font-size: 1.6rem;
-    font-weight: bold;
-  }
-  .contact .contact-us .contact-detail #editor ul {
-    font-size: 1.6rem;
-    list-style-type: circle;
-    padding-left: 25px;
-  }
-  .contact .contact-us .contact-detail #editor blockquote {
-    font-size: 1.6rem;
-    padding-left: 25px;
-    border-left: 1px solid lightcoral;
-  } */
   .contact .contact-us .contact-detail textarea{
     display: inline-block;
     vertical-align: top;
